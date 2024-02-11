@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: black;
+}
+
+main {
+    width: 100%;
+}
+
+.title {
+    margin-top: 40px;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+}
